@@ -1,0 +1,3 @@
+saycheese install single command
+
+git clone https://github.com/Anonymous3-SIT/saycheese ; cd saycheese ; bash saycheese.sh
